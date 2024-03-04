@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
+.logo {
+    font-family: "Anta", sans-serif;
+    font-weight: '400';
+    font-style: normal;
+    letter-spacing: -0.5px;
+}
+
+.test {
+
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+html,
+body {
+
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.fw-400 {
+    font-weight: 400;
+}
